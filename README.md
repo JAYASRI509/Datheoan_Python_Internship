@@ -88,3 +88,48 @@ How to Run
 Output
 
 Successfully organized files into their respective folders.
+
+## project 4:Python Chatbot 🤖
+
+Project Description
+
+This is a simple interactive chatbot developed using Python. It communicates with users and provides predefined responses based on their input.
+
+Features
+
+- Responds to greetings like Hello and Hi.
+- Answers basic questions.
+- Provides help messages.
+- Exits when the user types Bye.
+- Simple and beginner-friendly.
+
+Technologies Used
+
+- Python 3
+
+How to Run
+
+1. Download or clone the repository.
+
+2. Open the project in VS Code.
+
+3. Run the following command:
+   
+   "python chat.py"
+
+4. Start chatting with the bot.
+
+Sample Interaction
+
+You: Hello
+Bot: Hello! How are you?
+
+You: How are you?
+Bot: I am fine. Thank you!
+
+You: Bye
+Bot: Goodbye! Have a nice day.
+
+Conclusion
+
+This project helped me understand Python basics, conditional statements, loops, and user input handling.
