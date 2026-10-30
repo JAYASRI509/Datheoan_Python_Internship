@@ -55,3 +55,36 @@ python stock_tracker.py
 
 ### Output
 Displays individual stock performance and total portfolio profit or loss.
+
+
+Task 3: Automated File Organizer & Cleanup Utility
+
+Description
+
+Developed a Python-based file organizer that automatically organizes files into different folders based on their extensions.
+
+Technologies Used
+
+- Python 3
+- OS Module
+- Shutil Module
+- Pathlib
+
+Features
+
+- Automatically identifies file extensions.
+- Creates category folders such as Images, Documents, Videos, Archives and Code.
+- Moves files into their respective folders.
+- Handles errors and duplicate filenames.
+- Displays an organization summary.
+
+How to Run
+
+1. Open the project in VS Code.
+2. Run "organizer.py".
+3. Enter the folder path to organize.
+4. The program automatically sorts the files.
+
+Output
+
+Successfully organized files into their respective folders.
