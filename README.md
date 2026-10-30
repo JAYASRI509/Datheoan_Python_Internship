@@ -57,7 +57,7 @@ python stock_tracker.py
 Displays individual stock performance and total portfolio profit or loss.
 
 
-Task 3: Automated File Organizer & Cleanup Utility
+## project 3: Automated File Organizer & Cleanup Utility
 
 Description
 
