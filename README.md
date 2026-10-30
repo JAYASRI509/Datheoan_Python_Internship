@@ -28,3 +28,30 @@ python hangman.py
 
 ### Author
 Jayasri
+
+
+
+## Project 2: Stock Portfolio Performance Tracker
+
+### Description
+A Python-based application to track stock investments and calculate portfolio performance.
+
+### Features
+- Add multiple stocks.
+- Calculate total investment.
+- Calculate current portfolio value.
+- Display profit or loss.
+- Save portfolio details in CSV format.
+
+### Technologies Used
+- Python 3
+- CSV Module
+- VS Code
+
+### How to Run
+Run the following command:
+
+python stock_tracker.py
+
+### Output
+Displays individual stock performance and total portfolio profit or loss.
